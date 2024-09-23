@@ -23,7 +23,7 @@ function App() {
 					</>
 				}
 			>
-				MIMI Radio
+				RenzAlt Music
 				{' '}
 				<SongCount/>
 			</TopAppBar>
