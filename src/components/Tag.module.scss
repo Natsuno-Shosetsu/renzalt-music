@@ -1,0 +1,16 @@
+.tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	white-space: nowrap;
+	gap: 0.25em;
+	border-radius: 8px;
+	text-align: center;
+	font-size: 0.8em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	line-height: 1.5;
+	border: 1px solid var(--md-sys-color-outline);
+}
