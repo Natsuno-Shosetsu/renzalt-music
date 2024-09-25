@@ -1,5 +1,25 @@
 [
     {
+        "name": "HareHare Ya",
+        "artist": "Tiểu Mao",
+        "singer": "Tiểu Mao",
+        "translatedName": "只想说一声",
+        "length": "4:23",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": null,
+        "releaseDate": "2021-12-22T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=MpASwPqp-bc",
+        "desc": "/",
+        "staff": "Vocal：Tiểu Mao @Tiểu Mao \nWords, Music & Arrangement：Maigo Hanyuu @Maigo Hanyuu...official \nIllustration：faPka（ https://twitter.com/fapkapukapuka?s=20 ）\nRec & Mix Engineer：Chikara Sato（ https://twitter.com/studioonett ）\nMastering Engineer：Tsubasa Yamazaki",
+        "fileName": "HareHare Ya.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": ".jpg"
+    },
+    {
         "name": "たぶん",
         "artist": "YOASOBI",
         "singer": "lilas ikuta",
