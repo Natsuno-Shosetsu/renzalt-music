@@ -1,5 +1,25 @@
 [
     {
+        "name": "Mosawo - Gyutto",
+        "artist": "Mosawo",
+        "singer": "Musawo",
+        "translatedName": "只想说一声",
+        "length": "4:32",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "KoinoUTA",
+        "releaseDate": "2020-07-26T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=8RmZFUxos3E",
+        "desc": "/",
+        "staff": "Vocal：musawo @musao",
+        "fileName": "心做し - 蝶々P (Cover).flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "koinouta.jpg"
+    },
+    {
         "name": "Mosawo - Koiiro",
         "artist": "Mosawo",
         "singer": "Musawo",
