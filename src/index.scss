@@ -76,21 +76,3 @@ button:focus-visible {
 	box-sizing: border-box;
 	-webkit-tap-highlight-color: transparent;
 }
-
-footer{
-    text-align: center;
-    padding: 0px;
-    margin: 20px 20px;
-    position: absolute;
-    width: 100%;
-    background: transparent;
-    border-top: 5px solid #ffa3f4;
-    height: 160px;
-    transform: translateX(-20px);
-}
-.B p{
-    position: relative;
-    font-size: 12px;
-    top:  20px;
-    margin: 5px;
-}
