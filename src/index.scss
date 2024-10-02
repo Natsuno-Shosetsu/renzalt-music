@@ -94,3 +94,16 @@ footer{
     top:  20px;
     margin: 5px;
 }
+.text-normal p {
+    color: white;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    transition: 0.5s;
+}
+.opacity-mid {
+    opacity: 75%;
+}
+.shad-bold {
+    filter: drop-shadow(8px 7px 20px rgba(4, 4, 22, 0.5));
+}
