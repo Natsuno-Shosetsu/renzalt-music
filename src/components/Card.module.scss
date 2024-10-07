@@ -20,8 +20,6 @@
 		display: none;
 	}
 	&.filled {
-		background-color: var(--md-sys-color-surface-container-highest);
-		color: var(--md-sys-color-on-surface-variant);
 		&:hover {
 			&::before {
 				opacity: 0.08;
